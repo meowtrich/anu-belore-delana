@@ -1,2 +1,2 @@
-alert ('Hello world, ye!');
+alert ('Alright or wha?');
 alert ('LOL');
