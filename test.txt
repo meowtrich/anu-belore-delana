@@ -1,2 +1,3 @@
-alert ('Hello world, ye!');
+alert ('Alright or wha?');
 alert ('LUL');
+sing ('We are fresh strawberries!');
