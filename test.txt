@@ -1,2 +1,3 @@
 alert ('Alright or wha?');
 alert ('LOL');
+sing ('We are fresh strawberries!');
